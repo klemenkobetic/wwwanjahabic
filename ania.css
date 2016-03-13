@@ -1,0 +1,76 @@
+.carousel-inner{
+  width:100%;
+  max-height: 400px !important;
+}
+.carousel-inner > .item > img {
+max-width: 100%;
+width: auto;
+height: auto;
+vertical-align: middle;
+}
+
+h2.h2KajNudimo {
+  text-align: center;
+}
+h2.h2PosljiSporocilo {
+    text-align: center;
+}
+
+.panelAll {
+    margin: 5px 20px;
+}
+
+.panel1 {
+}
+.panel2 {
+}
+.panel3 {
+}
+.panel4 {  
+}
+.panel5 { 
+}
+
+.rowCenter{
+    text-align: center;
+}
+
+.rowCenter > div {
+    float: none;
+    display: inline-block;
+}
+
+.imeInPriimek {
+    width: 30%;
+    float: left;
+    margin: 0 10%;
+}
+.telefon {
+    width: 30%;
+    float: right;
+    margin: 0 10%;
+}
+.divEmail{
+    align-content: center;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    width: 80%; 
+}
+.divSporocilo {
+    align-content: center;
+    margin-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    width: 80%;
+}
+.divPoslji {
+    margin-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.panel-group > .panel > .panel-heading > h4{
+    text-align: left;
+}
